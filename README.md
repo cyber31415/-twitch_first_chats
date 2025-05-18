@@ -28,7 +28,6 @@ The full timeline is viewable as a scrollable HTML page, accessible here:
 |-----------------|-------------------------------------------------|
 | `index.html`    | Main timeline viewer with linked emotes         |
 | `README.md`     | This file                                       |
-| *(optional)*    | Future tools, scripts, or index utilities       |
 
 ---
 
