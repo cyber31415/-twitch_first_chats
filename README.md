@@ -1,24 +1,22 @@
-# First-Seen Twitch Chat Timeline
+## First-Time Chat Timeline
 
-This is a **viewer-first archive** built from Twitch VOD chat logs spanning **2015 to 2025**.  
-It highlights the **first recorded message** from each unique viewer, organized by:
+This project is a historical archive of Twitch VOD chat logs, covering streams from **2015 to 2025**.
 
-- 📅 Stream date and title
-- ⏱️ In-stream timestamp (HH:MM:SS)
-- 🗣️ Viewer message
+It highlights the first recorded message from each unique viewer, organized by:
 
-The full timeline is viewable as a scrollable HTML page, accessible here:  
-🔗 [**Live Timeline**](https://cyber31415.github.io/twitch_first_time_chats/)
+- 📅 **Stream date and title**
+- ⏱️ **In-stream timestamp (HH:MM:SS)**
+- 💬 **Viewer message**
 
----
+The full timeline is viewable as a scrollable HTML page.
 
-## 📌 Notes
+### 📌 Notes
 
-- **2015–2019 data is incomplete**, as only VODs available at the time of download (early 2025) were included.
+- **2015 to 2019 data is incomplete.** Only VODs available at the time of download (early 2025) were included.
 - This archive was created for **community nostalgia and historical preservation**.
-- The timeline is currently **read-only** and will not reflect new messages or future VODs unless updated.
+- The timeline is currently **read-only** and will not reflect new messages or VODs unless manually updated.
 - Emotes were restored using **Twitch**, **BTTV**, **FFZ**, and **7TV**, but:
-  > ⚠️ **Not all emotes could be recovered**, especially those that were deprecated, renamed, or channel-specific.
+  - ⚠️ **Not all emotes could be recovered.** Some are missing due to deprecation, renaming, or being channel-specific.
 
 ---
 
